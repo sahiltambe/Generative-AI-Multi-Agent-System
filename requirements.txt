@@ -185,7 +185,7 @@ types-requests==2.32.0.20240523
 typing-inspect==0.9.0
 typing_extensions==4.12.0
 uritemplate==4.1.1
-urllib3==2.2.1
+urllib3==2.2.2
 uvicorn==0.30.0
 watchfiles==0.22.0
 websocket-client==1.8.0
