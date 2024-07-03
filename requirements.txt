@@ -194,5 +194,5 @@ wrapt==1.16.0
 wsproto==1.2.0
 yarl==1.9.4
 youtube-transcript-api==0.6.2
-yt-dlp==2024.4.9
+yt-dlp==2024.7.1
 zipp==3.19.0
