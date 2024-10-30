@@ -84,7 +84,7 @@ kubernetes==29.0.0
 lancedb==0.5.7
 langchain==0.1.20
 langchain-cohere==0.1.5
-langchain-community==0.2.9
+langchain-community==0.3.0
 langchain-core==0.1.52
 langchain-google-genai==1.0.4
 langchain-openai==0.0.5
