@@ -85,7 +85,7 @@ lancedb==0.5.7
 langchain==0.3.7
 langchain-cohere==0.1.5
 langchain-community==0.2.19
-langchain-core==0.1.52
+langchain-core==0.1.53
 langchain-google-genai==1.0.4
 langchain-openai==0.0.5
 langchain-text-splitters==0.0.2
