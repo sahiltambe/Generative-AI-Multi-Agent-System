@@ -150,7 +150,7 @@ pysbd==0.3.4
 PySocks==1.7.1
 pytest==8.2.1
 python-dateutil==2.9.0.post0
-python-dotenv==1.0.1
+python-dotenv==1.2.2
 pytube==15.0.0
 PyYAML==6.0.1
 ratelimiter==1.2.0.post0
